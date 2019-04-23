@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 300;
+    src: local('☺'),
+        url(Roboto-Mono_300_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/robotomono/v5/L0xkDF4xlVMF-BfR8bXMIjDgiWqxf7k.woff */
+        url(Roboto-Mono_300_normal.ttf) format('truetype'); /* http://fonts.gstatic.com/s/robotomono/v5/L0xkDF4xlVMF-BfR8bXMIjDgiWqxf7qpAVU_.ttf */
+}
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: local('☺'),
+        url(Roboto-Mono_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/robotomono/v5/L0x5DF4xlVMF-BfR8bXMIjhLq3k.woff */
+        url(Roboto-Mono_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/robotomono/v5/L0x5DF4xlVMF-BfR8bXMIjhLq3qcXbKD.ttf */
+        url(Roboto-Mono_400_normal.svg#Roboto-Mono_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=L0x5DF4xlVMF-BfR8bXMIjhLq3g&skey=7b92570108d40690&v=v5#RobotoMono */
+}
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 500;
+    src: local('☺'),
+        url(Roboto-Mono_500_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/robotomono/v5/L0xkDF4xlVMF-BfR8bXMIjC4iGqxf7k.woff */
+        url(Roboto-Mono_500_normal.ttf) format('truetype'); /* http://fonts.gstatic.com/s/robotomono/v5/L0xkDF4xlVMF-BfR8bXMIjC4iGqxf7qpAVU_.ttf */
+}
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 700;
+    src: local('☺'),
+        url(Roboto-Mono_700_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/robotomono/v5/L0xkDF4xlVMF-BfR8bXMIjC4iGqxf7k.woff */
+        url(Roboto-Mono_700_normal.ttf) format('truetype'); /* http://fonts.gstatic.com/s/robotomono/v5/L0xkDF4xlVMF-BfR8bXMIjC4iGqxf7qpAVU_.ttf */
+}

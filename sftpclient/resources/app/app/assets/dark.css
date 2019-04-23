@@ -1,0 +1,83 @@
+body.dark, body.dark .mat-tab-body, body.dark .body, body.dark .container {
+    color: #ffffff;
+    background-color: #313131;
+}
+
+body.dark .mat-tab-header {
+    color: #EEEEEE;
+    background-color: transparent;
+}
+
+body.dark .mat-tab-group.mat-primary .mat-tab-label:not(.mat-tab-disabled):focus,
+body.dark .mat-tab-group.mat-primary .mat-tab-link:not(.mat-tab-disabled):focus,
+body.dark .mat-tab-nav-bar.mat-primary .mat-tab-label:not(.mat-tab-disabled):focus,
+body.dark .mat-tab-nav-bar.mat-primary .mat-tab-link:not(.mat-tab-disabled):focus,
+body.dark .mat-tab-label,
+body.dark .mat-tab-label:focus,
+body.dark .mat-tab-label-active {
+    color: #ffffff;
+    background-color: transparent;
+}
+
+body.dark .mat-select-value,
+body.dark .mat-form-field-label,
+body.dark .mat-hint  {
+    color: #eeeeee;
+}
+
+body.dark ::-webkit-input-placeholder {
+    color: #cccccc;
+}
+
+body.dark .mat-table,
+body.dark .mat-row,
+body.dark .mat-header-cell,
+body.dark .mat-paginator {
+    color: #ffffff;
+    background: none;
+}
+
+body.dark .mat-select-arrow {
+    color: rgba(255, 255, 255, 0.54);
+}
+
+body.dark .primary-text {
+    color: #7AB7D3;
+}
+body.dark .primary-bg {
+    background-color: #7AB7D3;
+}
+body.dark .title,
+body.dark .header.primary-bg,
+body.dark header > .primary-bg,
+body.dark header > .primary-bg .row.primary-bg,
+body.dark .mat-dialog-container .title {
+    background-color: #151515 !important;
+}
+
+body.dark .mat-dialog-container {
+    background: #151515 !important;
+}
+
+body.dark .mat-form-field-underline {
+    background-color: #656565;
+}
+
+body.dark .mat-button.mat-accent[disabled],
+body.dark .mat-button.mat-primary[disabled],
+body.dark .mat-button.mat-warn[disabled],
+body.dark .mat-button[disabled][disabled],
+body.dark .mat-icon-button.mat-accent[disabled],
+body.dark .mat-icon-button.mat-primary[disabled],
+body.dark .mat-icon-button.mat-warn[disabled],
+body.dark .mat-icon-button[disabled][disabled],
+body.dark .mat-stroked-button.mat-accent[disabled],
+body.dark .mat-stroked-button.mat-primary[disabled],
+body.dark .mat-stroked-button.mat-warn[disabled],
+body.dark .mat-stroked-button[disabled][disabled] {
+    color: rgba(255, 255, 255, 0.26);
+}
+
+body.dark .mat-checkbox-frame {
+    border-color: rgba(255,255,255,.54);
+}
